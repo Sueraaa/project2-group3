@@ -1,0 +1,12 @@
+select * from campaign;
+
+
+select * from contacts;
+
+
+select * from category
+limit 5;
+
+
+select * from subcategory
+limit 5;
